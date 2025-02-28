@@ -17,7 +17,7 @@
 package srv_info_hdl
 
 import (
-	"github.com/SENERGY-Platform/go-service-base/srv-info-hdl/lib"
+	"github.com/SENERGY-Platform/mgw-go-service-base/srv-info-hdl/lib"
 )
 
 type SrvInfoHandler interface {

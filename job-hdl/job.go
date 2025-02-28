@@ -19,7 +19,7 @@ package job_hdl
 import (
 	"context"
 	"errors"
-	"github.com/SENERGY-Platform/go-service-base/job-hdl/lib"
+	"github.com/SENERGY-Platform/mgw-go-service-base/job-hdl/lib"
 	"sync"
 	"time"
 )

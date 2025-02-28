@@ -20,7 +20,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/SENERGY-Platform/go-cc-job-handler/ccjh"
-	"github.com/SENERGY-Platform/go-service-base/job-hdl/lib"
+	"github.com/SENERGY-Platform/mgw-go-service-base/job-hdl/lib"
 	"github.com/google/uuid"
 	"sort"
 	"sync"

@@ -1,3 +1,3 @@
-module github.com/SENERGY-Platform/go-service-base/context-hdl
+module github.com/SENERGY-Platform/mgw-go-service-base/context-hdl
 
 go 1.22
