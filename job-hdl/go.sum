@@ -1,0 +1,6 @@
+github.com/SENERGY-Platform/go-cc-job-handler v0.1.2 h1:Ly7lwoyVC3YUAZ38OOfrvGfE8gtJqnJnhw7OzWR+/0M=
+github.com/SENERGY-Platform/go-cc-job-handler v0.1.2/go.mod h1:BH2fiuHGrY2OedQ598mildtGQPBgFEk6q+hOHNksra8=
+github.com/SENERGY-Platform/go-service-base/job-hdl/lib v0.1.0 h1:MjYuuA6MoATJ491K5MFqyeEVolO8+5dkdrT2l4Lmj1Y=
+github.com/SENERGY-Platform/go-service-base/job-hdl/lib v0.1.0/go.mod h1:+j0dc3Ey4IR+DeC26gIA6MoBTjf4TBH1DXQpnJPjx04=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
